@@ -1,0 +1,11 @@
+uint64  ownerId
+uint32  contractId
+uint32  amountOfTokens
+uint32  unk1 # 0
+uint32  elleonsMarkId # 151643
+array   store
+- uint32 unk2 # 2989?
+- array items
+- - uint32 item
+- - uint32 price
+
