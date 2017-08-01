@@ -7,5 +7,5 @@ transform Elleon Marks with a command
 > tera-proxy\node_modules\tera-data\protocol
 
 ## How to use
+transforms all elleons into the given item:
 > !mark <semi|vsemi|mwa|ccb>
-transforms all elleons into the given item
