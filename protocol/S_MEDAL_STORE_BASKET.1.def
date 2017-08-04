@@ -1,0 +1,9 @@
+uint64  ownerId
+uint32  contractId
+uint32  amountOfTokens
+uint32  unk1 # 0
+uint32  amountOfTokensUsed
+array   items
+- int32 item
+- int32 amount
+

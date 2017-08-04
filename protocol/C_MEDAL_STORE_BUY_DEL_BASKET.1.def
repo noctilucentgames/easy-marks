@@ -1,0 +1,4 @@
+uint64  ownerId
+uint32  contractId
+uint32  itemId
+uint32  amount
